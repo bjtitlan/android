@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Norsk Kalender</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Heisann verden!</string>
     <string name="menu_settings">Settings</string>
 
 </resources>
